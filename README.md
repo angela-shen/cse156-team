@@ -71,8 +71,8 @@ Clone the repository and install the required dependencies:
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/your-repo-name.git
-cd your-repo-name
+git clone https://github.com/angela-shen/cse156-team.git
+cd cse156-team
 
 # (Optional) Create a virtual environment
 python -m venv venv
